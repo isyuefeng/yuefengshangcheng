@@ -3,11 +3,7 @@ package com.yuefeng.core;
 import entity.Result;
 
 /***
- * 描述
- * @author ljh
- * @packagename com.changgou.core.service
- * @version 1.0
- * @date 2020/8/9
+ * @author yuefeng
  */
 public interface IUpdateController<T> {
 

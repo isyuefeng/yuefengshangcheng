@@ -3,11 +3,7 @@ package com.yuefeng.core;
 import entity.Result;
 
 /***
- * 描述
- * @author ljh
- * @packagename com.changgou.core
- * @version 1.0
- * @date 2020/8/10
+ * @author yuefeng
  */
 public interface IDeleteController<T> {
     /**

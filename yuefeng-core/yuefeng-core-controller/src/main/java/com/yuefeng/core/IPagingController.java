@@ -4,12 +4,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import entity.Result;
 
 /**
- * 描述
- *
- * @author www.itheima.com
- * @version 1.0
- * @package com.changgou.core *
- * @since 1.0
+ * @author yuefeng
  */
 public interface IPagingController<T> {
 
